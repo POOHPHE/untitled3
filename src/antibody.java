@@ -8,4 +8,15 @@ public class antibody extends character{
         this.atkPoint = atkPoint;
         this.symbol = symbol;
     }
+
+    public int GetPrice(){
+        return price;
+    }
+
+    @Override
+    public void Attack(){
+        
+    }
+
+
 }

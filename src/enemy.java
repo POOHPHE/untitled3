@@ -9,4 +9,6 @@ public class enemy extends character{
         this.atkPoint = atkPoint;
         this.symbol = symbol;
     }
+
+    
 }
