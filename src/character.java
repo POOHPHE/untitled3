@@ -1,8 +1,9 @@
 
 public class character{
-    private int posX,posY;
-    private int hp;
-    private int range;
-    private int atkPoint;
-    private String symbol;
+    protected int posX,posY;
+    protected int hp;
+    protected int range;
+    protected int atkPoint;
+    protected String symbol;
+
 }
